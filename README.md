@@ -26,6 +26,8 @@
 
 * Export to the [Atomic Game Engine](http://www.AtomicGameEngine.com/) (supports JSON import natively)
 
+![alt tag](https://raw.githubusercontent.com/ThunderBeastGames/UnityToJSON/master/AtomicEditorHDR.jpg)
+
 * Export for use with renderers such as [Three.js](http://threejs.org/)
 
 * Export to tooling which analyzes scenes and reports model statistics, etc
